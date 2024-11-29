@@ -13,6 +13,7 @@ __pycache__/*
 .*.swp
 */.ipynb_checkpoints/*
 .DS_Store
+_site/*
 
 # Project files
 .ropeproject
@@ -52,3 +53,4 @@ MANIFEST
 .venv*/
 .conda*/
 .python-version
+_site/license.html
